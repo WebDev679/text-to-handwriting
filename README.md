@@ -1,5 +1,5 @@
 ## Text to Handwriting (PDF)
-- [X] Convert a text document (.txt file) into a PDF file with the text content handwritten
+Convert a text document into a handwritten PDF document
 
 ## Running the program:
 - [X] python 3.5 or 3.6
